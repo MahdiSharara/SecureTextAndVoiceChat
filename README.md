@@ -1,4 +1,4 @@
-# Secured-Text-and-Voice-Chatting-Application-Using-JAVA
+# Secured Text and Voice Chatting Application Using JAVA
 Chatting application including voice calling. The data sent over network are encrypted using AES and RSA Algorithms
 
 This is a Client/Server chat room  Application with Graphical Interface. CLients exchange secured Text or voice over server. RSA and AES 
